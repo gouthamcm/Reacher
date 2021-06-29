@@ -19,6 +19,10 @@ For this project, can be done with two separate versions of the Unity environmen
 
 The task is episodic, and in order to solve the environment,  the agent must get an average score of +30 over 100 consecutive episodes.
 
+### Activate the environment
+
+Please follow the [instructions in the DRLND GitHub repository!](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in `README.md` at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
+
 ### Setting up the environment
 
 The environment can be downloaded from one of the links below for all operating systems
